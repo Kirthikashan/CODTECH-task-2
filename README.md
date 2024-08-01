@@ -9,6 +9,8 @@ Duration: JULY TO AUGUST 2024 Mentor: NEELA SANTHOSH KUMAR
 
 # Project: WEATHER REPORT APP
 
+![Weather report op](https://github.com/user-attachments/assets/0703dce9-bfe8-4016-b10b-e7d44f4be9bc)
+
 # Objective
 Educational Purpose: Provide a basic understanding of Flutter application development.
 User Interface Experience: Allow users to input a city name and display corresponding weather information.
